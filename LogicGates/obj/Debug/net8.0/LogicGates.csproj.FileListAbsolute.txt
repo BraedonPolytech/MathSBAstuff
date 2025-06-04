@@ -1,0 +1,14 @@
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\bin\Debug\net8.0\LogicGates.exe
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\bin\Debug\net8.0\LogicGates.deps.json
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\bin\Debug\net8.0\LogicGates.runtimeconfig.json
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\bin\Debug\net8.0\LogicGates.dll
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\bin\Debug\net8.0\LogicGates.pdb
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\LogicGates.GeneratedMSBuildEditorConfig.editorconfig
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\LogicGates.AssemblyInfoInputs.cache
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\LogicGates.AssemblyInfo.cs
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\LogicGates.csproj.CoreCompileInputs.cache
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\LogicGates.dll
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\refint\LogicGates.dll
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\LogicGates.pdb
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\LogicGates.genruntimeconfig.cache
+H:\Real GIT\MATHSBA\MathSBAstuff\LogicGates\obj\Debug\net8.0\ref\LogicGates.dll
